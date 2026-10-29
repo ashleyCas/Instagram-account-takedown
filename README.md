@@ -56,7 +56,7 @@ Access is private. This repository showcases the product; it does not distribute
 
 ## Responsible use
 
-Use Fluxra only for lawful, good-faith reporting of genuine issues such as scams, impersonation, or harassment. Do not use it for false reports, spam, retaliation, or other abuse. Platform operators make their own enforcement decisions; Fluxra cannot guarantee that an account will be removed. Fluxra is independent and is not affiliated with or endorsed by Instagram or Meta.
+Use Fluxra only for lawful, good-faith reporting of genuine issues such as scams, impersonation, or harassment. Do not use it for false reports, spam, retaliation, or other abuse. Platform operators make their own enforcement decisions; Fluxra is independent and is not affiliated with or endorsed by Instagram or Meta.
 
 ## Links
 
