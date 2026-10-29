@@ -39,7 +39,7 @@ Click the thumbnail to watch the Fluxra showcase on YouTube.
 ## What Fluxra includes
 
 | Feature | Purpose |
-| --- | --- |
+| --- | ---- |
 | Profile review | Inspect a target profile and keep the relevant context together. |
 | Reporting workspace | Enter a report reason and manage the accounts and proxies used in a session. |
 | Activity log | Follow session status, progress, and messages from the dashboard. |
