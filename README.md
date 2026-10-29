@@ -4,7 +4,7 @@
 
 # Fluxra
 
-### Instagram reporting and account review dashboard
+### Instagram mass report tool and account takedown
 
 Review profiles, organize report context, and follow activity in one private-access workspace.
 
@@ -20,7 +20,7 @@ Review profiles, organize report context, and follow activity in one private-acc
 
 <div align="center">
 
-<a href="https://youtu.be/poSMtJgaGfI">
+<a href="https://youtu.be/wr2ne6T3CrHpOzRz">
   <img src="./fluxra-instagram-takedown-thumbnail.png" alt="Fluxra Instagram reporting video thumbnail" width="850" />
 </a>
 
@@ -63,7 +63,7 @@ Use Fluxra only for lawful, good-faith reporting of genuine issues such as scams
 - [Official website](https://fluxra.tech/)
 - [Web panel](https://fluxra.tech/tool)
 - [Telegram access and support](https://t.me/Fluxra2)
-- [YouTube showcase](https://youtu.be/poSMtJgaGfI)
+- [YouTube showcase](https://youtu.be/wr2ne6T3CrHpOzRz)
 
 ---
 
