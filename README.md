@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Fluxra logo" width="120" />
+<img src="./download (3).png" alt="Fluxra logo" width="120" />
 
 # Fluxra
 
