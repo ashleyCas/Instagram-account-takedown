@@ -14,7 +14,7 @@ Review profiles, organize report context, and follow activity in one private-acc
 
 </div>
 
----
+----
 
 ## Watch the showcase
 
