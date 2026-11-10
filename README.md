@@ -1,74 +1,114 @@
-<div align="center">
-
-<img src="./download (3).png" alt="Fluxra logo" width="120" />
-
-# Fluxra
-
-### Instagram mass report tool and account takedown
-
-Review profiles, organize report context, and follow activity in one private-access workspace.
-
-[![Website](https://img.shields.io/badge/Website-fluxra.tech-7C6CFF?style=for-the-badge)](https://fluxra.tech/)
-[![Web panel](https://img.shields.io/badge/Open-Web%20Panel-2FBDE8?style=for-the-badge)](https://fluxra.tech/tool)
-[![Telegram](https://img.shields.io/badge/Request-Access-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Fluxra2)
-
-</div>
-
------
-
-## Watch the showcase
 
 <div align="center">
 
-<a href="https://youtu.be/dI8NBW0JaJ4">
-  <img src="./fluxra-instagram-takedown-thumbnail.png" alt="Fluxra Instagram reporting video thumbnail" width="850" />
-</a>
+# 🚀 Instagram Mass Report tool
+### ⚡ Fast • Reliable  • Exclusive Access
 
-Click the thumbnail to watch the Fluxra showcase on YouTube.
+[![Website](https://img.shields.io/badge/Official%20Website-Live-success)](https://fluxra.tech/)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Fluxra2)
+[![Status](https://img.shields.io/badge/Status-Online-brightgreen)](#)
+[![Access](https://img.shields.io/badge/Access-Premium-orange)](#)
+
+<br>
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/786396170876223498/1569721475609530469/logo-v4.png?ex=6af47c8b&is=6af32b0b&hm=e5d6a11437d25f7bf61d57187c77180397289508188b2777789fa7b08f08399f&=&format=webp&quality=lossless&width=640&height=640" width="180" alt="Logo">
+</p>
+
+### 🌐 Official Website
+### https://fluxra.tech/
 
 </div>
 
-## Product preview
 
-<div align="center">
+## 🎥 Showcase 
 
-<img src="./showc.png" alt="Fluxra reporting dashboard preview" width="650" />
+<p align="center">
+  <a href="https://youtu.be/dI8NBW0JaJ4">
+    <img src="https://img.youtube.com/vi/dI8NBW0JaJ4/maxresdefault.jpg" width="850" alt="Video Showcase">
+  </a>
+</p>
 
-</div>
+<p align="center">
+🎬 Click the image above to watch the full showcase
+</p>
 
-## What Fluxra includes
+---
 
-| Feature | Purpose |
-| --- | ---- |
-| Profile review | Inspect a target profile and keep the relevant context together. |
-| Reporting workspace | Enter a report reason and manage the accounts and proxies used in a session. |
-| Activity log | Follow session status, progress, and messages from the dashboard. |
-| Browser access | Sign in to the web panel with a private license key, with no installation required. |
-| Support | Get access details, setup help, and product updates through Telegram. |
+## 📸 Preview
 
-## Get access
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/786396170876223498/1569722821104504913/showc.png?ex=6af47dcc&is=6af32c4c&hm=797413a7ef33e0a52dedcbcb0df75badb5e9685eaeb36aedea5ae7ad8b1a8eac&" width="55%" alt="Preview">
+</p>
+<br>
 
-1. Visit [fluxra.tech](https://fluxra.tech/) to explore the product.
-2. Contact [Fluxra on Telegram](https://t.me/Fluxra2) for availability and access details.
-3. Once you have a license key, open the [web panel](https://fluxra.tech/tool) and sign in.
+---
 
-Access is private. This repository showcases the product; it does not distribute license keys.
+## 💎 Getting Access
 
-## Responsible use
+### Step 1
 
-Use Fluxra only for lawful, good-faith reporting of genuine issues such as scams, impersonation, or harassment. Do not use it for false reports, spam, retaliation, or other abuse. Platform operators make their own enforcement decisions; Fluxra is independent and is not affiliated with or endorsed by Instagram or Meta.
+Join our official Telegram community.
 
-## Links
+### Step 2
 
-- [Official website](https://fluxra.tech/)
-- [Web panel](https://fluxra.tech/tool)
-- [Telegram access and support](https://t.me/Fluxra2)
-- [YouTube showcase](https://youtu.be/dI8NBW0JaJ4)
+Receive instructions and latest announcements.
+
+### Step 3
+
+Get access to the Tool and future updates.
+
+
+
+## 🌍 Official Website
+
+<p align="center">
+
+### Visit Our Website
+
+https://fluxra.tech/
+
+</p>
+
+---
+
+## 📊 Platform Status
+
+🕒 Last updated: 11/10/2026
+
+
+## 📬 Contact
+
+### Telegram
+
+https://t.me/Fluxra2
+
+### Website
+
+https://fluxra.tech/
 
 ---
 
 <div align="center">
 
-**Last updated: 2026-10-29 01:24 UTC**
+# ⭐ Support The Project
+
+If you enjoy the platform and want to stay updated, don't forget to star this repository.
+
+<br>
+
+## 🚀 Join The Community
+
+[![Telegram](https://img.shields.io/badge/Join-Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Fluxra2)
+
+<br>
+
+### 🌐 https://fluxra.tech/
+
+## ⚠️ Educational Purpose Notice
+
+This project is intended for educational, research, and testing purposes only.
+
+Users are fully responsible for their actions and must comply with all applicable laws and platform policies. The creators and contributors accept no liability for misuse or damages resulting from the use of this project.
 
 </div>
