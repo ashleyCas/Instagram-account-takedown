@@ -33,7 +33,7 @@
 🎬 Click the image above to watch the full showcase
 </p>
 
-----
+-----
 
 ## 📸 Preview
 
